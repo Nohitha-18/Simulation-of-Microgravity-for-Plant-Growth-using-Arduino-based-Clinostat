@@ -111,4 +111,4 @@ The base code for motor control was adapted from reference material and implemen
 ---
 
 ## 🧑‍💻 Author
-Final Year B.Tech ECE Student
+G.Nohitha Navya Sri - Final Year B.Tech ECE Student
