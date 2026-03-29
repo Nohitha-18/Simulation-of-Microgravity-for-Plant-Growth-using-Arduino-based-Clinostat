@@ -1,5 +1,5 @@
 # Simulation-of-Microgravity-for-Plant-Growth-using-Arduino-based-Clinostat
-# Arduino-Based Clinostat for Microgravity Simulation
+
 
 ## 📖 Overview
 This project presents the design and implementation of a single-axis clinostat using Arduino to simulate microgravity conditions on Earth. The system is used to study plant growth behavior by minimizing the directional influence of gravity.
